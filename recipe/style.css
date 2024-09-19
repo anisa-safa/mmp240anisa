@@ -1,18 +1,23 @@
 
-
+img{
+    border: solid, 8px,  rgb(219, 182, 127);
+}
 
 body {background-color: rgb(251, 238, 182);
     border-style: dotted;
     border-width: 10pt;
 border-color: rgb(219, 182, 127);
-
 padding-left: 20pt;
 padding-right: 60pt;
 padding-bottom: 40pt;
 line-height: 1.5em;
 
 }
+ul{
 
+font-size: 13px;
+
+}
 p{
 
     width: 75%
@@ -21,12 +26,6 @@ p{
 h2,h3,ul,p{ 
     font-family:suse ;
     color:rgb(65, 33, 4)
-
-}
-img{
-border-style: dotted;
-
-border-width: 20px  rgb(219, 182, 127) ;
 
 }
 
